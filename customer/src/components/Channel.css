@@ -1,0 +1,37 @@
+.head_text {
+    font-family: 'Darumadrop One',
+        cursive;
+    ;
+    color: #fff;
+    font-size: 1.2rem;
+}
+
+.head_logo {
+    height: 38px;
+    padding-left: 8px;
+    padding-right: 5px;
+}
+
+.log {
+    padding-left: 18px;
+}
+
+.log:hover {
+    color: #e9e2e2;
+    cursor: pointer;
+}
+
+
+.channel-serach__input__icon {
+    padding-right: 3px;
+    padding-left: 2px;
+}
+
+.team-channel-list__header__title {
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+.channel {
+    color: #fff;
+    font-family: 'Nanum Myeongjo', serif;
+}
